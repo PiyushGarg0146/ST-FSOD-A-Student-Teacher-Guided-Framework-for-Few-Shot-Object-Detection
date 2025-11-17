@@ -1,0 +1,79 @@
+# ——————————————
+# Python
+# ——————————————
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+
+# ——————————————
+# Virtual Environments
+# ——————————————
+venv/
+.env/
+.venv/
+env/
+
+# ——————————————
+# Jupyter / Colab
+# ——————————————
+.ipynb_checkpoints/
+*.ipynb_convert/
+*.ipynb_old/
+
+# ——————————————
+# OS-generated files
+# ——————————————
+.DS_Store
+Thumbs.db
+
+# ——————————————
+# Logs
+# ——————————————
+*.log
+logs/
+wandb/
+
+# ——————————————
+# Models & Checkpoints (DO NOT upload)
+# ——————————————
+*.pth
+*.pt
+*.ckpt
+checkpoints/
+weights/
+
+# ——————————————
+# Datasets (never upload large datasets)
+# ——————————————
+data/
+datasets/
+*.zip
+*.tar.gz
+
+# ——————————————
+# Cache & Temp
+# ——————————————
+.cache/
+tmp/
+temp/
+
+# ——————————————
+# IDE files
+# ——————————————
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# ——————————————
+# Kaggle / API tokens
+# ——————————————
+kaggle.json
+
+# ——————————————
+# Images for README (allowed but ignore raw outputs)
+# ——————————————
+outputs/
+results_raw/

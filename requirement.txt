@@ -1,0 +1,19 @@
+torch>=2.0.0
+torchvision>=0.15.0
+
+numpy
+pandas
+matplotlib
+opencv-python
+
+PyYAML
+tqdm
+requests
+scikit-learn
+scipy
+
+# for dataset download
+kaggle
+
+# optional but commonly needed
+Pillow
