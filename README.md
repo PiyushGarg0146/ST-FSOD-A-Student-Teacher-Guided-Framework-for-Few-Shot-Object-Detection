@@ -53,6 +53,19 @@ Built for **low-data detection**, this architecture achieves **robust generaliza
 - Enables **semantic transfer** → better performance in **low-shot** conditions.
 
 ---
+
+## 🌀 Swin Transformer Backbone (Alternative High-Resolution Encoder)
+
+The **Swin Transformer** provides a powerful hierarchical visual representation using **shifted window attention**, enabling scalable high-resolution processing.
+
+### ✨ Key Features
+
+### 🧱 Hierarchical Transformer Architecture
+- Builds **multi-scale feature maps**, similar to CNN pyramids.  
+- Ideal for **fine-grained localization** in detection.
+
+
+---
 ## 🎯 FSOD Capabilities
 - Supports **1-shot, 3-shot, and 5-shot** learning setups.  
 - Built-in **few-shot subset extraction** and **evaluation suite**.  
