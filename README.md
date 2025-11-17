@@ -60,6 +60,3 @@ Built for **low-data detection**, this architecture achieves **robust generaliza
 - Integrated **visualization tools** for detection outputs and class attention.
 
 ---
-
-## 🧱 Architecture Diagram
-
