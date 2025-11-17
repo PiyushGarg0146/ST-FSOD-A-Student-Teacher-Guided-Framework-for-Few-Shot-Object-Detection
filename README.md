@@ -53,7 +53,6 @@ Built for **low-data detection**, this architecture achieves **robust generaliza
 - Enables **semantic transfer** → better performance in **low-shot** conditions.
 
 ---
-
 ## 🎯 FSOD Capabilities
 - Supports **1-shot, 3-shot, and 5-shot** learning setups.  
 - Built-in **few-shot subset extraction** and **evaluation suite**.  
